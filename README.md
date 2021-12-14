@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kellbber
-- 👀 I’m interested in:
+- 👀 I’m interested in: 
 Learn and improve myself to work with technology.
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning: 
 Python, JavaScript and Css
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on: 
 JavaScript and Python
 - 📫 Contact me in
 kellbberbarcarolo@gmail.com
