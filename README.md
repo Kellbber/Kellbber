@@ -2,7 +2,7 @@
 - 👀 I’m interested in: 
 Learn and improve myself to work with technology.
 - 🌱 I’m currently learning: 
-Python, JavaScript and Css
+Python and JavaScript 
 - 💞️ I’m looking to collaborate on: 
 JavaScript and Python
 - 📫 Contact me in
