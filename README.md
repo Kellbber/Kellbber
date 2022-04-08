@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kellbber
 - 🌱 I’m currently learning: 
-Python and JavaScript 
+JavaScript, Express, EJS, NodeJS, React and HTML - CSS.  
 - 📫 Contact me in
 kellbberbarcarolo@gmail.com
 
