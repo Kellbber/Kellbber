@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kellbber
 - 🌱 I’m currently learning: 
-JavaScript,TypeScript, Express, NodeJS, Nestjs, Reactjs and TS, HTML - CSS.  
+JavaScript, TypeScript, Express, Node, Nest, React, HTML and CSS. 
+
 - 📫 Contact me in
 kellbberbarcarolo@gmail.com
 
