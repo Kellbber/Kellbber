@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Kellbber
-- 🌱 I’m currently learning: 
-JavaScript, TypeScript, Express, Node, Nest, React, Next, Vue HTML and CSS. 
+# Kellbber's Developer Profile
 
-- 📫 Contact me in
-kellbberbarcarolo@gmail.com
+## About Me
+
+Welcome to my GitHub profile! I am a passionate FullStack Developer with over a year of hands-on experience in the field. My expertise lies in crafting robust and scalable web applications using a variety of technologies.
+
+## Skills
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Next.js, Vue.js
+- **Styling:** Styled-components, Stitches, Sass and Tailwind CSS
+- **Backend:** Node.js, Nest.js and Express
+- **Database:** PostgreSQL, MongoDB and FaunaDB
+
+
+## Experience
+
+I have accumulated more than a year of professional experience, contributing to the success of various projects. My work involves both frontend and backend development, allowing me to offer end-to-end solutions.
+
+
+Let's connect and create amazing things together!
+
 
 <div align="center">
   <a href="https://github.com/Kellbber">
@@ -17,7 +33,6 @@ kellbberbarcarolo@gmail.com
     <img align="center" height="30" width="40" alt="nodejs" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
   <img align="center" alt="KB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="KB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
    <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
