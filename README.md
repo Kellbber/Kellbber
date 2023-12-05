@@ -1,5 +1,3 @@
-# Kellbber's Developer Profile
-
 ## About Me
 
 Welcome to my GitHub profile! I am a passionate FullStack Developer with over a year of hands-on experience in the field. My expertise lies in crafting robust and scalable web applications using a variety of technologies.
