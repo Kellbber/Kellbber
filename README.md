@@ -1,19 +1,19 @@
 ## About Me
 
-Welcome to my GitHub profile! I am a passionate FullStack Developer with over a year of hands-on experience in the field. My expertise lies in crafting robust and scalable web applications using a variety of technologies.
+Welcome to my GitHub profile! I am a passionate FullStack Developer with over three years of hands-on experience in the field. My expertise lies in crafting robust and scalable web applications using a variety of technologies.
 
 ## Skills
 
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React, Next.js, Vue.js
-- **Styling:** Styled-components, Stitches, Sass and Tailwind CSS
+- **Styling:** Sass, CSS, Tailwind CSS and Chakra-ui
 - **Backend:** Node.js, Nest.js and Express
 - **Database:** PostgreSQL, MongoDB and FaunaDB
 
 
 ## Experience
 
-I have accumulated more than a year of professional experience, contributing to the success of various projects. My work involves both frontend and backend development, allowing me to offer end-to-end solutions.
+I have accumulated more than three years of professional experience, contributing to the success of various projects. My work involves both frontend and backend development, allowing me to offer end-to-end solutions.
 
 
 Let's connect and create amazing things together!
